@@ -6,7 +6,7 @@ class Home extends Component {
         this.state = {};
     }
     render(){
-        return <h1>HAI</h1>
+        return <h1>Welcome</h1>
     }
 }
 export default Home;
